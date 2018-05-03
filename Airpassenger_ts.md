@@ -3,7 +3,7 @@ AirPassengers
 Sujit
 April 13, 2018
 
-### Exploratory Data Analytics on AirPassengers and arima model training and forecating
+### Exploratory Data Analytics on AirPassengers
 
 -   Load and View data
 
